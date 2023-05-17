@@ -37,5 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhtaransari&show_icons=true&locale=en&theme=tokyonight" alt="akhtaransari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhtaransari&&theme=tokyonight" alt="akhtaransari" /></p>
-
-![snake gif](https://github.com/akhtaransari/akhtaransari/blob/output/github-contribution-grid-snake.gif)
