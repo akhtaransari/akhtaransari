@@ -12,7 +12,7 @@
 
 - 📫 You will find me at **akhtaransari.info@gmail.com**
 
-- 🗺️ Want to know more? Check out my portfolio  <a href="https://akhtaransari.github.io" target="blank"> here</a> 🌐
+- 🗺️ Want to know more? Check out my portfolio  <a href="akhtaransari.github.io"> here</a> 🌐
 
 - ⚡ Fun fact - **I am always HAPPY 😁**
 
