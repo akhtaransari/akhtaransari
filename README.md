@@ -12,9 +12,9 @@
 
 - 📫 You will find me at **akhtaransari.info@gmail.com**
 
-- 🗺️ Want to know more? Check out my **[Portfolio](https://akhtaransari.github.io)** 🌐
+- 🗺️ Want to know more? Check out my **[Portfolio](https://akhtaransari.github.io/)** 🌐
 
-- ⚡ Fun fact - **I am always HAPPY 😁**
+- ⚡ Fun fact - **I Like Gains 😁**
 
 <h3 align="left">Lets talk:</h3>
 <p align="left">
