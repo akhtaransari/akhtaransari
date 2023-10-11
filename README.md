@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer, exploring the multiverse of 1's & 0's</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtaransari&label=Visitors&color=0e75b6&style=flat" alt="akhtaransari"/> </p>
-
 - 🔭 I’m   **Full Stack JAVA Developer**
  
 - 💬 Ask me about **Java, Spring Boot, SQL, REST APIs, Hibernate, JDBC, Git/Github, HTML, CSS, Javascript, Object-oriented.**
