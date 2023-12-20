@@ -3,10 +3,23 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m   **Full Stack JAVA Developer**
- 
-- 💬 Ask me about **Java, Spring Boot, SQL, REST APIs, Hibernate, JDBC, Git/Github, HTML, CSS, Javascript, Object-oriented.**
+- - 🔭 I’m a **Full Stack Development** with a focus on:
+  - **JAVA Back-End & Spring**
+  - **React for Front-End**
+  - **Generative AI**
+  - **Manual Quality Analysis**
 
+## Expertise
+
+- 💬 Ask me about:
+  - **Spring**
+  - **Java**
+  - **Hibernate**
+  - **JavaScript**
+  - **React**
+  - **Generative AI**
+  - **Manual Quality Analysis**
+ 
 - 📫 You will find me at **akhtaransari.info@gmail.com**
 
 - 🗺️ Want to know more? Check out my **[Portfolio](https://akhtaransari.github.io/)** 🌐
