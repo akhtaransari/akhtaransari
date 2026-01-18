@@ -66,11 +66,3 @@
 </p>
 
 
-<div style="display: flex; justify-content: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhtaransari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akhtaransari" width="300" height="200" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhtaransari&show_icons=true&locale=en&theme=tokyonight" alt="akhtaransari" width="300" height="200" />
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhtaransari&&theme=tokyonight" alt="akhtaransari" width="300" height="200" />
-</div>
-
